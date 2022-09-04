@@ -1,6 +1,8 @@
 ![GitHub](https://img.shields.io/github/license/otavioalves23/portfolio-java)
 # Portfólio de Projetos Java
-Descrição do projeto
+Portfólio de projetos java
+desenvolvido em aula no SENAC Tatuapé
+UC9 - Lógica de Programação
 ## Autor
 Otavio Alves
 ## Capturas de Tela
